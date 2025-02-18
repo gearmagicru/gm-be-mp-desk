@@ -2,7 +2,7 @@
 
 Панель приложений Маркетплейса выводит список готовых решений (компонентов, тем и т.п.) для установки в веб-приложение GearMagic.
 
-Этот модуль является расширением для [модуля "Маркетплейс"](https://github.com/gearmagicru/gm-be-mp).
+Этот модуль является расширением для [модуля "Маркетплейс приложений"](https://github.com/gearmagicru/gm-be-mp).
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/gearmagicru/gm-be-mp-desk.svg)](https://packagist.org/packages/gearmagicru/gm-be-mp-desk)
 [![Total Downloads](https://img.shields.io/packagist/dt/gearmagicru/gm-be-mp-desk.svg)](https://packagist.org/packages/gearmagicru/gm-be-mp-desk)
